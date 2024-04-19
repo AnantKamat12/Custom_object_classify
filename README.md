@@ -11,7 +11,7 @@ Real-time object detection using a pre-trained TensorFlow Lite model
 Webcam integration for live object detection
 Supports various object classes with customizable confidence thresholds
 Requirements:
-![Screenshot 2024-03-18 181653](https://github.com/AnantKamat12/Custom_object_detection/assets/141349718/d565f37b-f331-4f22-bdd4-c6f9006c6b20)
+
 
 Python 3.x
 TensorFlow
