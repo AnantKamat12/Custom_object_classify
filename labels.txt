@@ -1,0 +1,4 @@
+0 Human
+1 CAT
+2 FIRE
+3 CARS
