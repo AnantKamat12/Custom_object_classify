@@ -28,6 +28,7 @@ This can classify objects into 4 classes given in labels.txt
 conda create --name tflite-env python=3.8 && conda activate tflite-env
 
 git clone https://github.com/AnantKamat12/Custom_object_classify.git
+cd Custom_object_classify
 
 pip install -r requirements.txt
 
