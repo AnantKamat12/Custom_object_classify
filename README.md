@@ -34,7 +34,7 @@ python object_detection.py
 python image.py --image <path to image file>
 
 #or run command
-python video.py --video <path_to_your_video_file.mp4>
+python video.py --video <path_to_your_video_file.mp4 >
 
 
 
