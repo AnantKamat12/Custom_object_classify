@@ -27,7 +27,7 @@ This can classify objects in 4 classes given in labels.txt
 ```bash
 conda create --name tflite-env python=3.8 && conda activate tflite-env
 
-git clone https://github.com/AnantKamat12/Custom_object_detection.git
+git clone https://github.com/AnantKamat12/Custom_object_classify.git
 
 pip install -r requirements.txt
 
