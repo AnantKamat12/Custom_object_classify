@@ -12,7 +12,7 @@ Real-time object detection using a pre-trained TensorFlow Lite model
 Webcam integration for live object detection
 
 Supports various object classes with customizable confidence thresholds
-## Object Detection with TensorFlow Lite
+
 
 ## Object Detection with TensorFlow Lite
 
@@ -20,12 +20,12 @@ This project enables real-time object detection using TensorFlow Lite. Follow th
 
 ---
 
-### Step 1: Set up Conda Environment, Clone the Repository, Install Requirements, and Run the Object Detection Script
+### Steps: Set up Conda Environment, Clone the Repository, Install Requirements, and Run the Object Detection Script
 
 ```bash
 conda create --name tflite-env python=3.8 && conda activate tflite-env
 
-git clone <repository_url> && cd objdetect
+git clone <repository_url> 
 
 pip install -r requirements.txt
 
