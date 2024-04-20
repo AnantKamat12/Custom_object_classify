@@ -9,7 +9,7 @@ Features:
 
 Real-time object classification using a pre-trained TensorFlow Lite model
 
-Webcam integration for live object detection, images, and videos.
+Webcam integration for live object detection, images, and video object classification.
 
 Supports various object classes with customizable confidence thresholds
 
