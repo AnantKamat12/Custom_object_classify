@@ -1,24 +1,24 @@
 
 
 
-Object Detection with TensorFlow Lite
+Object Classification with TensorFlow Lite
 
 This repository contains code for performing real-time object detection using TensorFlow Lite. The project includes scripts for  TensorFlow Lite models.
 
 Features:
 
-Real-time object detection using a pre-trained TensorFlow Lite model
+Real-time object classification using a pre-trained TensorFlow Lite model
 
-Webcam integration for live object detection
+Webcam integration for live object detection, images, and videos.
 
 Supports various object classes with customizable confidence thresholds
 
 
-## Object Detection with TensorFlow Lite
+## Object Classification with TensorFlow Lite
 
 This project enables real-time object detection using TensorFlow Lite. Follow the steps below to set up the environment, clone the repository, and run the object detection script.
 
-This can classify objects in 4 classes given in labels.txt
+This can classify objects into 4 classes given in labels.txt
 
 ---
 
