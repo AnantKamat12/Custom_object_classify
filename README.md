@@ -30,6 +30,8 @@ git clone https://github.com/AnantKamat12/Custom_object_detection.git
 pip install -r requirements.txt
 
 python object_detection.py
+#or run command 
+python image.py --image <path to image file>
 
 
 It is advised to create a new anaconda environment
