@@ -17,20 +17,20 @@ Supports various object classes with customizable confidence thresholds
 # Command 1
 conda create --name tflite-env python=3.8
 conda activate tflite-env
-
+```bash
 # Command 2
 git clone <repository_url>
 cd objdetect
-
+```bash
 # Command 3
 pip install -r requirements.txt
+```bash
 
-# Command 4 (Optional: Describe steps for preparing model and labels)
 
-# Command 5
+# Command 4
 python object_detection.py
+```bash
 
-# Command 6 (Optional: Describe steps for contribution and customization)
 
 
 
