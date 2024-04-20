@@ -28,6 +28,7 @@ pip install -r requirements.txt
 
 
 4) Run detection scripts:
+   
    python object_detection.py
 
 
