@@ -13,23 +13,24 @@ Webcam integration for live object detection
 
 Supports various object classes with customizable confidence thresholds
 
-Setup Instructions:
-1)Create Conda Environment:
+```bash
+# Command 1
 conda create --name tflite-env python=3.8
-
 conda activate tflite-env
 
-2) Clone the repository:
+# Command 2
 git clone <repository_url>
+cd objdetect
 
-3) Requirements :
-
+# Command 3
 pip install -r requirements.txt
 
+# Command 4 (Optional: Describe steps for preparing model and labels)
 
-4) Run detection scripts:
-   
-   python object_detection.py
+# Command 5
+python object_detection.py
+
+# Command 6 (Optional: Describe steps for contribution and customization)
 
 
 
