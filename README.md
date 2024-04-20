@@ -16,9 +16,20 @@ Supports various object classes with customizable confidence thresholds
 Setup Instructions:
 1)Create Conda Environment:
 conda create --name tflite-env python=3.8
+
 conda activate tflite-env
+
 2) Clone the repository:
 git clone <repository_url>
+
+3) Requirements :
+
+pip install -r requirements.txt
+
+
+4) Run detection scripts:
+   python object_detection.py
+
 
 
 
