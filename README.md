@@ -33,6 +33,10 @@ python object_detection.py
 #or run command 
 python image.py --image <path to image file>
 
+#or run command
+python video.py --video <path_to_your_video_file.mp4>
+
+
 
 It is advised to create a new anaconda environment
 Clone the repository to your local machine.
