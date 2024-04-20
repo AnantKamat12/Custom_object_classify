@@ -17,6 +17,7 @@ Supports various object classes with customizable confidence thresholds
 ## Object Detection with TensorFlow Lite
 
 This project enables real-time object detection using TensorFlow Lite. Follow the steps below to set up the environment, clone the repository, and run the object detection script.
+
 This can classify objects in 4 classes given in labels.txt
 
 ---
