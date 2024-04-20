@@ -25,7 +25,7 @@ This project enables real-time object detection using TensorFlow Lite. Follow th
 ```bash
 conda create --name tflite-env python=3.8 && conda activate tflite-env
 
-git clone <repository_url> 
+git clone https://github.com/AnantKamat12/Custom_object_detection.git
 
 pip install -r requirements.txt
 
